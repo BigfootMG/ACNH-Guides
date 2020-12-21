@@ -23,12 +23,12 @@ body 	{align: center;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 28px;
 	font-weight: bold;
-	color: #6CE2AB;
+	color: #0088cc;
 	padding: 10px;
 	text-align: center;
 	text-decoration: none;
 }
-color: #6CE2AB;
+color: #0088cc;
 	text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ main a{font-family: Arial, Helvetica, sans-serif;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 28px;
 	font-weight: bold;
-	color: #6CE2AB;
+	color: #0088cc;
 	padding: 10px;
 	text-align: center;
 	text-decoration: none;
@@ -119,6 +119,6 @@ main img {display: block;
 #footer a {font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	font-weight: bold;
-	color: #6CE2AB;
+	color: #0088cc;
 	text-decoration: none;
 }

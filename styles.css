@@ -1,7 +1,7 @@
 @charset "utf-8";
 body 	{align: center;
 	margin: 0 auto;
-	background-color: #66ccff;
+	background-color: #b22222;
 }
 #header {font-family: Arial, Helvetica, sans-serif;
 	font-size: 28px;
@@ -23,7 +23,7 @@ body 	{align: center;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 28px;
 	font-weight: bold;
-	color: #0088cc;
+	color: #ff9999;
 	padding: 10px;
 	text-align: center;
 	text-decoration: none;
@@ -34,7 +34,7 @@ color: #0088cc;
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: #8b0000;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -51,7 +51,7 @@ color: #0088cc;
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #0e2e00;
+  background-color: #f08080;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -59,20 +59,20 @@ color: #0088cc;
 
 /* Links inside the dropdown */
 .dropdown-content a {
-  color: black;
+  color: white;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #174d00;}
+.dropdown-content a:hover {background-color: #e4717a;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #174d00;}
+.dropdown:hover .dropbtn {background-color: #e4717a;}
 
 main	{margin: 0 auto;
 	align: center;
@@ -96,7 +96,7 @@ main a{font-family: Arial, Helvetica, sans-serif;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 28px;
 	font-weight: bold;
-	color: #0088cc;
+	color: #ff9999;
 	padding: 10px;
 	text-align: center;
 	text-decoration: none;
@@ -120,7 +120,7 @@ main img {display: block;
 .info a {font-family: Arial, Helvetica, sans-serif;
 	font-size: 17px;
 	font-weight: bold;
-	color: #0088cc;
+	color: #ff9999;
 	text-decoration: none;
 }
 
@@ -136,6 +136,6 @@ main img {display: block;
 #footer a {font-family: Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	font-weight: bold;
-	color: #0088cc;
+	color: #ff9999;
 	text-decoration: none;
 }
